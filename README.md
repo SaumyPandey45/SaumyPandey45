@@ -45,7 +45,7 @@
 * 🌾 **AI-Powered Crop Yield Prediction** – Helping farmers optimize yield with ML
 * 📚 **Notes ShareIt** – A collaborative platform to share notes, experiments & PYQs
 
-*(More projects on my [repositories](https://github.com/your-username))*
+*(More projects on my [repositories](https://github.com/SaumyPandey45))*
 
 ---
 

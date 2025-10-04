@@ -15,6 +15,14 @@
 
 ---
 
+## 📬 Contact Me
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/saumy-pandey-671745378/)
+* 📧 [Email](mailto:saumypandey.tech@gmail.com)
+* 🌐 [Portfolio](#) *(coming soon!)*
+
+---
+
 ## ⚡ Tech Stack & Tools
 
 <p align="center">
@@ -55,7 +63,3 @@
 > “The best way to predict the future is to **create it**.” – Peter Drucker
 
 ⚡ Fun Fact: I debug my code faster when I have coffee ☕ + music 🎶
-
-📬 Connect with me: [LinkedIn](https://www.linkedin.com/in/saumy-pandey-671745378/) | [Portfolio](#) | [Email](mailto:saumypandey.tech@gmail.com)
-
----

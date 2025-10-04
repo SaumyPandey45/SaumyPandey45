@@ -56,6 +56,6 @@
 
 ⚡ Fun Fact: I debug my code faster when I have coffee ☕ + music 🎶
 
-📬 Connect with me: [LinkedIn](#https://www.linkedin.com/in/saumy-pandey-671745378/) | [Portfolio](#) | [Email](saumypandey.tech@gmail.com)
+📬 Connect with me: [LinkedIn](https://www.linkedin.com/in/saumy-pandey-671745378/) | [Portfolio](#) | [Email](mailto:saumypandey.tech@gmail.com)
 
 ---

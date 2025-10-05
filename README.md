@@ -19,7 +19,7 @@
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/saumy-pandey-671745378/)
 * 📧 [Email](mailto:saumypandey.tech@gmail.com)
-* 🌐 [Portfolio](#) *(coming soon!)*
+* 🌐 [Portfolio](https://saumyportfolio-beta.vercel.app/)
 
 ---
 
